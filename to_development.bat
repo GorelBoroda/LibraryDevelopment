@@ -1,1 +1,0 @@
-move /y VD2.dll LibraryDevelopment.dll
